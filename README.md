@@ -21,7 +21,7 @@ The `OT_FoodSim` repository is organized as follows:
 - **LICENSE**  
   The repository license file.  
 
-- **OpenHSR.ipynb**  
+- **Openfoodfacts_code.ipynb**  
   A Jupyter Notebook for exploring and running Optimal Transport simulations on the nutriscore dataset.  
 
 - **Predict_OT.R**  
